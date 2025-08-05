@@ -1,0 +1,2 @@
+# Sol.bot
+Bot trading
